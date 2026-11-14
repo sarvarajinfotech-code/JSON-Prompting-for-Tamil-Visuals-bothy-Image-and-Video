@@ -1,0 +1,41 @@
+
+{
+  "subject": "A Tamil woman flower seller arranging fresh jasmine and orange marigold garlands for the Chithirai festival. She wears a traditional, modest cotton sari with a naturally draped pallu. Her expression and posture are candid and realistic.",
+
+  "setting": {
+    "place": "East Masi Street near Meenakshi Amman Temple, Madurai, Tamil Nadu, India. The temple's distinctive Dravidian gopuram is visible in the background.",
+    "era": "Contemporary Madurai, 2020s.",
+    "time_of_day": "Early morning during the Chithirai festival."
+  },
+
+  "lighting": "Soft natural morning sunlight, gentle shadows, realistic highlights and a calm atmospheric appearance.",
+
+  "camera": {
+    "shot": "Wide establishing shot capturing the flower seller, jasmine and marigold garlands, temple street and distant gopuram.",
+    "lens": "35mm",
+    "angle": "Eye-level documentary perspective"
+  },
+
+  "palette": [
+    "Jasmine white",
+    "Marigold orange",
+    "Muted traditional cotton sari colours",
+    "Warm earthy stone tones",
+    "Natural temple architecture colours"
+  ],
+
+  "style": "Ultra-realistic documentary photography, cinematic composition, authentic Tamil Nadu street culture, natural human proportions, detailed flower textures, realistic architecture and lifelike environmental details.",
+
+  "aspect_ratio": "16:9",
+
+  "avoid": [
+    "Incorrect Meenakshi Amman Temple architecture",
+    "Generic Indian or North Indian cultural stereotypes",
+    "Fantasy costumes or overly decorative clothing",
+    "Unrealistic crowds or artificial postcard composition",
+    "Oversaturated colours and excessive golden glow",
+    "Distorted hands, extra fingers or unnatural faces",
+    "Artificial-looking flowers",
+    "Text, captions, logos, watermarks or borders"
+  ]
+}

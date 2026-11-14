@@ -1,0 +1,80 @@
+
+{
+  "subject": "A Tamil woman flower seller arranging fresh jasmine and orange marigold garlands for the Chithirai festival. She wears a simple traditional cotton sari. Her expressions and movements are natural and unposed.",
+
+  "setting": {
+    "place": "East Masi Street near the eastern entrance of Meenakshi Amman Temple, Madurai, Tamil Nadu, India.",
+    "era": "Contemporary Madurai, 2020s.",
+    "occasion": "Chithirai festival",
+    "time_of_day": "Early morning"
+  },
+
+  "lighting": "Soft natural morning sunlight, gentle shadows and realistic highlights.",
+
+  "camera": {
+    "shot": "Wide establishing shot transitioning into a medium shot of the flower seller.",
+    "lens": "35mm",
+    "angle": "Eye-level documentary perspective",
+    "camera_move": "Slow cinematic dolly-in with stable movement"
+  },
+
+  "palette": [
+    "Jasmine white",
+    "Marigold orange",
+    "Muted cotton-sari colours",
+    "Warm earthy tones"
+  ],
+
+  "style": "Photorealistic cinematic documentary video, authentic Tamil street atmosphere, realistic human movements and culturally accurate Madurai surroundings.",
+
+  "aspect_ratio": "16:9",
+  "duration_seconds": 10,
+
+  "motion": {
+    "subject_motion": "The flower seller gently picks up fresh jasmine flowers, separates them, and carefully arranges them into a garland using both hands. She briefly looks at her work and continues arranging flowers.",
+
+    "environment_motion": "Flower garlands sway gently in the morning breeze. A few pedestrians walk naturally in the distant background. Subtle movement of people and street activity creates an authentic Madurai atmosphere.",
+
+    "camera_move": "Begin with a wide establishing view of the temple street. Slowly dolly towards the flower seller, transitioning into a medium shot that captures her hands arranging jasmine flowers.",
+
+    "motion_intensity": "Subtle, smooth and realistic",
+
+    "timeline": [
+      {
+        "time": "0-2 seconds",
+        "action": "Establish the Madurai temple street, showing the Meenakshi Amman Temple gopuram and morning atmosphere."
+      },
+      {
+        "time": "2-4 seconds",
+        "action": "Camera slowly approaches the flower seller arranging jasmine and marigold garlands."
+      },
+      {
+        "time": "4-7 seconds",
+        "action": "Show her hands carefully picking and arranging fresh jasmine flowers into a garland."
+      },
+      {
+        "time": "7-10 seconds",
+        "action": "Camera settles into a closer composition of the flower arrangement while the seller continues working naturally."
+      }
+    ],
+
+    "continuity": "Maintain consistent facial features, clothing, flower arrangement, temple architecture, lighting and background throughout the entire video."
+  },
+
+  "audio": {
+    "ambience": "Natural Madurai street ambience, distant temple bells, subtle pedestrian activity and gentle morning sounds.",
+    "music": "None"
+  },
+
+  "avoid": [
+    "Incorrect Meenakshi Amman Temple architecture",
+    "Generic North Indian cultural stereotypes",
+    "Fantasy costumes or artificial decorations",
+    "Distorted hands or extra fingers",
+    "Unnatural facial expressions",
+    "Sudden camera movements",
+    "Flickering objects or changing backgrounds",
+    "Excessive golden glow",
+    "Text, subtitles, logos or watermarks"
+  ]
+}
